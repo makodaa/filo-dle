@@ -1,10 +1,8 @@
-import { Test } from "./components/test";
+import HomePage from "./pages/HomePage";
 function App() {
     return (
         <>
-            <div className="flex items-center justify-center h-screen">
-                <Test />
-            </div>
+            <HomePage />
         </>
     );
 }

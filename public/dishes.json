@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Adobo",
+        "function": "Main Course",
+        "main": "Pork",
+        "substitute": "Chicken",
+        "secondary": "None",
+        "tertiary": "None",
+        "sauce": "Soy Sauce",
+        "garnish": "Bay Leaves",
+        "origin": "Spain",
+        "temperature": "Hot"
+    },
+    {
+        "id": 2,
+        "name": "Sinigang",
+        "function": "Main Course",
+        "main": "Pork",
+        "substitute": "Shrimp",
+        "secondary": "Okra",
+        "tertiary": "Kangkong",
+        "sauce": "Broth",
+        "garnish": "Green Chili",
+        "origin": "Indigenous",
+        "temperature": "Hot"
+    },
+    {
+        "id": 3,
+        "name": "Kare-kare",
+        "function": "Main Course",
+        "main": "Oxtail",
+        "substitute": "Beef",
+        "secondary": "Eggplant",
+        "tertiary": "String Bean",
+        "sauce": "Peanut Sauce",
+        "garnish": "Shrimp Paste",
+        "origin": "Pampangga",
+        "temperature": "Hot"
+    },
+    {
+        "id": 4,
+        "name": "Halo-Halo",
+        "function": "Dessert",
+        "main": "Shaved Ice",
+        "substitute": "None",
+        "secondary": "Kidney Beans",
+        "tertiary": "Nata de Coco",
+        "sauce": "Condensed Milk",
+        "garnish": "Leche Flan",
+        "origin": "Japan",
+        "temperature": "Cold"
+    },
+    {
+        "id": 5,
+        "name": "Laing",
+        "function": "Main Course",
+        "main": "Taro Leaves",
+        "substitute": "None",
+        "secondary": "Red Chili",
+        "tertiary": "Pork",
+        "sauce": "Milk",
+        "garnish": "Shrimp Paste",
+        "origin": "Bicol",
+        "temperature": "Hot"
+    }
+]
